@@ -10,7 +10,7 @@ export default function Home() {
           <div className="flex items-center justify-between">
             <div className="max-w-2xl">
               <h1 className="text-8xl font-black leading-[1.1] mb-8">
-                LET'S{'\n'}
+                LET&apos;S{'\n'}
                 EXPLORE{'\n'}
                 UNIQUE{'\n'}
                 CLOTHES.
@@ -168,7 +168,7 @@ export default function Home() {
         <div className="container mx-auto">
           <div className="flex items-center gap-4 mb-16">
             <div className="w-8 h-2 bg-primary rounded-full"></div>
-            <h2 className="text-4xl font-black tracking-wider">Young's Favourite</h2>
+            <h2 className="text-4xl font-black tracking-wider">Young&apos;s Favourite</h2>
           </div>
           
           <div className="grid grid-cols-2 gap-8">
